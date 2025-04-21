@@ -1,4 +1,4 @@
-package paysafe;
+package company3;
 
 public class InterleaveTwoStrings {
 

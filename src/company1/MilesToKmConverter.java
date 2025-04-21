@@ -1,4 +1,4 @@
-package seeburger;
+package company1;
 
 public class MilesToKmConverter {
 

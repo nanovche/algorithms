@@ -1,4 +1,4 @@
-package dhl;
+package company2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
